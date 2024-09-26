@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5709621291696162267
+  m_GuidHigh: 2676208850271518618
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4664743059301498340
+      m_GuidHigh: 14576684727915311501
+    m_SerializedTextureGuid:
+      m_GuidLow: 11967458147190749394
+      m_GuidHigh: 14758009948382373115
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Affe
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4678052457835186331
+      m_GuidHigh: 1773937632973817491
+    m_SerializedTextureGuid:
+      m_GuidLow: 1820793821848808061
+      m_GuidHigh: 11483567570338493403
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Fisch
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4868469207009478999
+      m_GuidHigh: 2551717592234536835
+    m_SerializedTextureGuid:
+      m_GuidLow: 17700514538743125555
+      m_GuidHigh: 12938761034780005337
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Reh
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5089675094072357985
+      m_GuidHigh: 9532399466470774918
+    m_SerializedTextureGuid:
+      m_GuidLow: 8094335848339063902
+      m_GuidHigh: 12144468508468006346
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Tintenfisch
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5138588243988621696
+      m_GuidHigh: 8671474387885759913
+    m_SerializedTextureGuid:
+      m_GuidLow: 15038911491415496839
+      m_GuidHigh: 3619868942150242600
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Vogel
+    m_Texture: {fileID: 0}
